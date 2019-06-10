@@ -14,6 +14,7 @@ namespace DemocrazikBureau
     {
         public Form1()
         {
+            //Test
             InitializeComponent();
         }
     }
